@@ -25,4 +25,7 @@ weather_obj = pd.DataFrame({
     'short_descriptions': period_desc,
     'temperatures'      : period_temp
 })
+
+# free to do whatever from here!
+# a solid hello-world for python
 print(weather_obj)
